@@ -19,7 +19,7 @@ By leveraging a local open-source embedding model, this Retrieval-Augmented Gene
 
 **1. Clone the repository and install dependencies**
 ```bash
-git clone [https://github.com/YOUR-USERNAME/esg-rag-api.git](https://github.com/YOUR-USERNAME/esg-rag-api.git)
+git clone [[https://github.com/YOUR-USERNAME/esg-rag-api.git](https://github.com/YOUR-USERNAME/esg-rag-api.git)](https://github.com/sakhter981/esg-rag-api.git)
 cd esg-rag-api
 python3 -m venv venv
 source venv/bin/activate
